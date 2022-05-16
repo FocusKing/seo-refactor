@@ -2,7 +2,7 @@
 
 ## Description
 
-Added semantic values to the tags within the HTML file.  Tested displays for style and responsiveness. 
+Added semantic values to the tags within the HTML file, so that our own site is optimized for search engines.  Tested displays for style and responsiveness. 
 
 ## Table of Contents 
 
