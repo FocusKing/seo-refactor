@@ -28,9 +28,9 @@ Provided notes within each element to explain the changes made throughout the as
 ## Resources
 https://github.com/FocusKing/seo-refactor
 
-[LIVE SITE](https://www.google.com)
+[LIVE SITE](https://focusking.github.io/seo-refactor/)
 
 
 ## Tests
 
-Ensure site works properly after I added the semantic values.
+Utilized Live Server to see instant changes as I made entries into the portal.  Testing to make sure the things I input were entered correctly and that the site still operated as normal after I added the semantic values.
