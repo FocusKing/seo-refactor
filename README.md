@@ -20,7 +20,7 @@ Load up web brower for HTML file to see display.
 Was able to add semantic values to the tags within the HTML file, but I also wanted to make sure that the site still functioned properly.
 
 ## Screenshots
-![SEO imgage](./Develop/assets/images/screenshot-assignment1.png)
+![SEO imgage](./assets/images/website.png)
 
 
 ## Tests
