@@ -1,4 +1,4 @@
-# Seo-Refactor
+# Seo-Refactor-Horiseon
 
 ## Description
 
@@ -9,7 +9,7 @@ Added semantic values to the tags within the HTML file, so that our own site is 
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
+- [Visuals](#visuals)
 - [Tests](#tests)
 
 ## Installation
@@ -19,8 +19,13 @@ Load up web brower for HTML file to see display.
 ## Usage
 Was able to add semantic values to the tags within the HTML file, but I also wanted to make sure that the site still functioned properly.
 
-## Screenshots
+## Visuals
 ![SEO imgage](./assets/images/website.png)
+
+## Resources
+https://github.com/FocusKing/seo-refactor
+
+[LIVE SITE](https://www.google.com)
 
 
 ## Tests
